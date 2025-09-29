@@ -307,4 +307,4 @@ You are free to use, modify, and distribute with attribution.
 ## 👨‍💻 Author
 Built by **Opeyemi Daniel** ✨  
 📧 Contact: danielopeyemi840@gmail.com  
-🔗 GitHub: [your-username](https://github.com/Authur-p)  
+🔗 GitHub: [Authur-p](https://github.com/Authur-p)  

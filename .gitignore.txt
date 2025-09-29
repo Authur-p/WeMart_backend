@@ -26,3 +26,5 @@ media/
 
 # Environment variables
 .env
+
+WeMart/db.sqlite3
